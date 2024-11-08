@@ -1,0 +1,1 @@
+This program creates item records and holds them in an SQlite database.
